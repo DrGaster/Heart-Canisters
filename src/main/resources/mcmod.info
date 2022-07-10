@@ -1,8 +1,8 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "heartcanisters",
+  "name": "Heart Canisters",
+  "description": "A mod that is designed to bring Tinker's Construct's Heart Canisters to 1.12.2.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
