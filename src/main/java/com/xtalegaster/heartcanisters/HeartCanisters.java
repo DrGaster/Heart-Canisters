@@ -7,7 +7,11 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = HeartCanisters.MODID, name = HeartCanisters.NAME, version = HeartCanisters.VERSION)
+@Mod(
+        modid = HeartCanisters.MODID,
+        name = HeartCanisters.NAME,
+        version = HeartCanisters.VERSION
+)
 public class HeartCanisters
 {
     public static final String MODID = "examplemod";
